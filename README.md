@@ -30,6 +30,7 @@
 
 You can see more detail in this [repo](https://github.com/clue-ai/ChatYuan-7B)
 
+<br>
 
 ## How to use
 ```python
@@ -53,6 +54,7 @@ result = answer("你好")
 print(result)
 ```
 
+<br>
 
 ## License
 - [ChatYuan-7B](https://github.com/clue-ai/ChatYuan-7B)
